@@ -1,2 +1,3 @@
 # theironyard-day1
-this is the first day of the rest of my life 
+This is the first day of the rest of my life.
+Man this is a lot of steps.
